@@ -495,7 +495,6 @@ function Home({ profile }) {
     </div>
     <FriendFeed />
     <Recommendations />
-    <Trending />
     <Section title="🆕 Новинки">
       <PlaceholderCards text="Подключим календарь релизов TMDB следующим модулем." />
     </Section>
